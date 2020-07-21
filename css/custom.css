@@ -1,0 +1,91 @@
+#nav-top {
+    margin-top: 20px;
+}
+
+#dipilih {
+    color: #ff9000;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+#no-dipilih {
+    margin-left: 40px;
+    color: #ffb14b;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+#sign-in {
+    background-color: #ff9000;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 22px;
+    padding-right: 22px;
+    border-radius: 50px;
+    margin-left: 22px;
+    color: white;
+}
+
+#sign-in:active {
+    background-color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50px;
+    margin-left: 22px;
+    color: #ff9000;
+    border: 2px solid #ff9000;
+}
+
+#sign-up {
+    background-color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50px;
+    margin-left: 22px;
+    color: #ff9000;
+    border: 2px solid #ff9000;
+}
+
+#sign-up:active {
+    background-color: #ff9000;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 22px;
+    padding-right: 22px;
+    border-radius: 50px;
+    margin-left: 22px;
+    border: 0;
+    color: white;
+}
+
+.jumbotron {
+    padding-top: 120px;
+    padding-bottom: 56px;
+    background-image: url(../img/back.png);
+    background-size: cover;
+    background-color: white;
+    margin-bottom: 0;
+}
+
+#learn-more {
+    background-color: #ff9000;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 36px;
+    padding-right: 36px;
+    border-radius: 50px;
+    border: 0 solid;
+    color: white;
+    font-size: 17px;
+}
+
+.footer {
+    background-color: #ff9000;
+    height: 51px;
+}
+
+@media only screen and (max-width: 991px) {}
